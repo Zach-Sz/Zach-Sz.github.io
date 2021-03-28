@@ -5,18 +5,6 @@ layout: "page"
 icon: fa-book
 order: 3
 ---
-
-I love books! Here are some I'm reading now:
-
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+[1] Zachary Szentimrey, Sandrine de Ribaupierre, Aaron Fenster, and Eranga Ukwatta "Automatic deep learning-based segmentation of neonatal cerebral ventricles from 3D ultrasound images", Proc. SPIE 11600, Medical Imaging 2021: Biomedical Applications in Molecular, Structural, and Functional Imaging, 116000R (15 February 2021); https://doi.org/10.1117/12.2581749 
 
 source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
