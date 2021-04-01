@@ -1,0 +1,10 @@
+---
+title: Predicting Movie Success Using Machine Learning
+author: Zach
+layout: post
+---
+In this project, we created models which can predict how successful a movie will be. We defined success as how much money a movie makes and how many Academy Award wins/ nominations they have. The more money and awards, the greater amount of success. The models were developped using a regression model to determine the amount of money made and a classification model for number of Oscar wins.
+
+Data for this project was manually scraped on the IMDb website where information pertaining to genre, actors involved, director etc. were collected and cleaned using BeautifulSoup Python library. A linear model was used to determine how much money a movie would make while SVM and Naive Bayes models were made for the classification problem. PCA analysis was also performed to determine the features which provided the most information and spread in the data.
+
+A Python Jupyter Notebook was created with a step-by-step process on our implementation and the data scraped was put in a CSV file which can all be accessed [here] (https://github.com/Zach-Sz/Predicting_Movie_Success).
