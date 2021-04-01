@@ -12,7 +12,7 @@ order: 3
 -	Research at the University of Guelph using artificial intelligence for the segmentation of neonates’ cerebral ventricles from 3D ultrasound images for clinical and diagnostic purposes
 -	First author on “Automatic Deep Learning-Based Segmentation of Neonatal Cerebral Ventricles from 3D Ultrasound Images” in SPIE Medical Imaging Conference 2021
 -	Awarded the Ontario Graduate Scholarship ($15,000 over 3 semesters) and CEPS Graduate Dean's Scholarship in 2020
--	Was a Graduate Teaching Assistant for ENGG*2400 – Engineering Systems Analysis; ENGG*3390 – Signal Processing; ENGG*4040 – Medical Imaging Modalities; ENGG*4660 Medical Image Processing
+-	Was a Graduate Teaching Assistant for ENGG2400 – Engineering Systems Analysis; ENGG3390 – Signal Processing; ENGG4040 – Medical Imaging Modalities; ENGG4660 Medical Image Processing
 
 # **Bachelor of Engineering, Biomedical Engineering (Co-op)**
 # **University of Guelph – Guelph, ON                                                                  September 2014 – June 2019**
