@@ -58,7 +58,8 @@ order: 3
 
 ### **Summary of Skills**
 -	Excel, Word, Powerpoint and Azure DevOps
-- Python and MATLAB 
+- Languages Python and MATLAB 
+- Tools and Processes such as Anaconda, Jupyter Notebook and Slurm
 -	Python packages Tensorflow, Keras API, OpenCV, scikit-image, scikit-learn and Pandas
 -	Have a full G driver’s license with air brake Z endorsement, forklift operating license and Standard First Aid with Level C CPR and AED
 
