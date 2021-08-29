@@ -7,8 +7,14 @@ order: 3
 ---
 
 ### **Education and Awards**
+# **Doctor of Philosophy in Engineering (PhD)**
+# **University of Guelph – Guelph, ON                                                                  September 2021 – Present** 
+-	Research at the University of Guelph using artificial intelligence for image analysis
+-	Awarded the Ontario Graduate Scholarship ($15,000 over 3 semesters) in 2021
+-	Was a Graduate Teaching Assistant for ENGG3390 – Signal Processing
+
 # **Master of Applied Science in Engineering with Specialization in Artificial Intelligence (MASc+AI)**
-# **University of Guelph – Guelph, ON                                                                  September 2019 – Present** 
+# **University of Guelph – Guelph, ON                                                                  September 2019 – August 2021** 
 -	Research at the University of Guelph using artificial intelligence for the segmentation of neonates’ cerebral ventricles from 3D ultrasound images for clinical and diagnostic purposes
 -	First author on “Automatic Deep Learning-Based Segmentation of Neonatal Cerebral Ventricles from 3D Ultrasound Images” in SPIE Medical Imaging Conference 2021
 -	Awarded the Ontario Graduate Scholarship ($15,000 over 3 semesters) and CEPS Graduate Dean's Scholarship in 2020
@@ -60,7 +66,7 @@ order: 3
 -	Excel, Word, Powerpoint and Azure DevOps
 - Languages Python and MATLAB 
 - Tools and Processes such as Anaconda, Jupyter Notebook and Slurm
--	Python packages Tensorflow, Keras API, OpenCV, scikit-image, scikit-learn and Pandas
+-	Python packages Tensorflow, Keras API, PyTorch, OpenCV, scikit-image, scikit-learn and Pandas
 -	Have a full G driver’s license with air brake Z endorsement, forklift operating license and Standard First Aid with Level C CPR and AED
 
 
