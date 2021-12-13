@@ -9,4 +9,8 @@ order: 4
 
 **Abstract (Unpublished)**: Zachary Szentimrey, Sandrine de Ribaupierre, Aaron Fenster, and Eranga Ukwatta "Automatic deep learning-based segmentation of neonatal cerebral ventricles from 3D ultrasound images", Imaging Network Ontario (ImNO) 2021 Symposium, (2021), 109, [https://www.imno.ca/sites/default/files/ImNO2021Proceedings.pdf](https://www.imno.ca/sites/default/files/ImNO2021Proceedings.pdf#page=109)
 
+**Abstract (Unpublished)**: Nicholas Belanger, Zachary Szentimrey, Sandrine de Ribaupierre, Aaron Fenster, and Eranga Ukwatta "Automated Registration of 3D Ultrasound Images of Preterm Neonates to Identify Intraventricular Hemorrhaging: Preliminary Findings using SPM-12.", Imaging Network Ontario (ImNO) 2021 Symposium, (2021).
+
 **Workshop (Unpublished)**: Zachary Szentimrey, Sandrine de Ribaupierre, Aaron Fenster, and Eranga Ukwatta "Deep learning-based segmentation of neonatal cerebral lateral ventricles from 3D ultrasound images", 1st Ontario Workshop for Computer Vision (OWCV), (2021).
+
+**Poster Competition (Unpublished)**: Zachary Szentimrey, Sandrine de Ribaupierre, Aaron Fenster, and Eranga Ukwatta "Deep learning-based segmentation of neonatal cerebral lateral ventricles from 3D ultrasound images", BioTEC Competition based in University of Waterloo, (2021).
