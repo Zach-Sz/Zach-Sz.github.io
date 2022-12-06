@@ -10,7 +10,9 @@ order: 3
 # **Doctor of Philosophy in Engineering (PhD)**
 # **University of Guelph – Guelph, ON                                                                  September 2021 – Present** 
 -	Research at the University of Guelph using artificial intelligence for image analysis
--	Awarded the Ontario Graduate Scholarship ($15,000 over 3 semesters) in 2021
+-	Awarded the Ontario Graduate Scholarship ($15,000 over 3 semesters) in 2021 and 2022 (Declined it in 2022)
+-	Awarded the NSERC-CGS Doctoral Scholarship ($35,000 a year for 3 years) in 2022
+-	Awarded the Tri-Council CEPS Scholarship ($5,000 a year) in 2022
 -	Was a Graduate Teaching Assistant for ENGG3390 – Signal Processing
 
 # **Master of Applied Science in Engineering with Specialization in Artificial Intelligence (MASc+AI)**
